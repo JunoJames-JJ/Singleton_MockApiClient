@@ -8,8 +8,8 @@ The code consist of three main components:
 
 Example Usage: 
 
-let loginController = LoginViewController()
-loginController.api = MockApiClient()
+let loginController = LoginViewController() 
+loginController.api = MockApiClient() 
 loginController.didTapButtonLogin()
 
 
